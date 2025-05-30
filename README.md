@@ -10,6 +10,8 @@ In this lab you will:
 
 - Determine the optimal hyperparameters for a decision tree model and evaluate the model performance
 
+# Check the index.ipynb file for my workings
+
 ## Import necessary libraries
 
 Let's first import the libraries you'll need for this lab. 
